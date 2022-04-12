@@ -180,6 +180,10 @@ footer {
     text-decoration: none;
     
 }
+footer {
+    text-decoration: none;
+    color: white;
+}
 footer a:hover {
     text-decoration: underline;
     color: var(--cor3);
